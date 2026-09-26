@@ -4,7 +4,7 @@ import (
 	"log"
 	"math"
 	"os"
-	"stera/pkg"
+	"stera_ui/pkg"
 	"strconv"
 	"strings"
 )

@@ -2,7 +2,7 @@ package internal
 
 import (
 	"log"
-	"stera/pkg"
+	"stera_ui/pkg"
 	"strings"
 )
 

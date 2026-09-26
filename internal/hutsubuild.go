@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"log"
 	"os"
-	"stera/pkg"
+	"stera_ui/pkg"
 	"strings"
 )
 

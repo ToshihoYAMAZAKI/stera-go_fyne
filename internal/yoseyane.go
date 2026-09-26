@@ -3,7 +3,7 @@ package internal
 import (
 	"log"
 	"math"
-	"stera/pkg"
+	"stera_ui/pkg"
 	"strconv"
 )
 

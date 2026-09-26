@@ -4,7 +4,7 @@ import (
 	"log"
 	"math"
 	"os"
-	"stera/pkg"
+	"stera_ui/pkg"
 )
 
 // ExposYose は寄棟屋根建物のは頂点座標をファイルに書き出す

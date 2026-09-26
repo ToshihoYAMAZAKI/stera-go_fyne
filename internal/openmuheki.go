@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"stera/pkg"
+	"stera_ui/pkg"
 	"strings"
 )
 

@@ -4,7 +4,7 @@ import (
 	"log"
 	"math"
 	"os"
-	"stera/pkg"
+	"stera_ui/pkg"
 )
 
 // ExposTri は５角形屋根の頂点座標をファイルに書き出す
